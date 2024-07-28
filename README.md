@@ -4,8 +4,8 @@
 This repository contains an analysis of the Lung Cancer Risk Dataset, sourced from [Kaggle](https://www.kaggle.com/datasets/humairmunir/lung-cancer-risk-dataset?resource=download). The analysis aims to uncover relationships and patterns that could help in understanding and preventing lung cancer.
 
 ## Repository Contents
-- `Lung_Cancer_Risk_Analysis.ipynb`: A Jupyter Notebook containing the comprehensive analysis performed on the dataset.
-- `dataset.csv`: The dataset file containing various health factors relevant to lung cancer risk.
+- `lungExploration.ipynb`: A Jupyter Notebook containing the comprehensive analysis performed on the dataset.
+- `lungCancerDataset.zip`: The dataset file containing various health factors relevant to lung cancer risk.
 
 ## Usage Instructions
 
